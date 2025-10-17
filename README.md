@@ -39,15 +39,14 @@
 ### ⚡ GitHub Highlights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VaibhavSahni&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavSahni&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VaibhavSahni&show_icons=true&theme=tokyonight&hide_border=true" alt="Vaibhav's GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=VaibhavSahni&theme=tokyonight&hide_border=true" alt="Vaibhav's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSahni&layout=compact&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=VaibhavSahni&theme=tokyonight&no-frame=true&column=4" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSahni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=VaibhavSahni&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
 </p>
-
 ---
 
 ### 🌐 Connect With Me
