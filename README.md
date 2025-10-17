@@ -28,34 +28,7 @@ C, C++, Java, Python, JavaScript, TypeScript, RISC-V Assembly
 React, HTML5, CSS3, SCSS  
 
 **Core Interests**  
-Artificial Intelligence, Data Science, Web Systems, Software Engineering  
-
-**Tools & Platforms**  
-Git, Linux, Node.js, VS Code  
-
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaibhav-sahni&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=vaibhav-sahni&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-sahni&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=vaibhav-sahni&theme=github_dark&no-frame=true&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🧩 Selected Areas of Work
-- Development of **frontend architectures** using React and TypeScript  
-- Implementation of **algorithmic and data-driven models** in Python  
-- Exploration of **RISC-V instruction sets** and simulator design  
-- Coursework and research in **AI, Data Structures, and Systems Programming**
-
----
+Artificial Intelligence, Data Science, Web Systems, Software Engineering
 
 ### 🌐 Connect
 <p align="center">
